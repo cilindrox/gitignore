@@ -1,9 +1,7 @@
-# Compiled source #
-###################
+# Compiled source
 *.class
 
-# Package Files #
-#################
+# Package Files
 *.jar
 *.war
 *.ear

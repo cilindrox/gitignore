@@ -1,5 +1,4 @@
-# Xcode #
-#########
+# Xcode
 .DS_Store
 */build/*
 *.pbxuser
@@ -17,6 +16,5 @@ DerivedData
 .idea/
 *.hmap
 
-# CocoaPods #
-#############
+# CocoaPods
 Pods
