@@ -1,6 +1,7 @@
 # Development
 .agignore
 .tags
+.tags_sorted_by_file
 
 # Compiled source
 *.com
