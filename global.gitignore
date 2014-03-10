@@ -41,6 +41,7 @@ Thumbs.db
 *.bak
 *.pid
 *.swp
+*.cache
 
 # SublimeText
 # workspace files are user-specific
